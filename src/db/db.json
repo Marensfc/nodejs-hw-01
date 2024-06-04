@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "name": "Jeffery Spinka",
+    "phone": "333.977.5515 x10688",
+    "email": "Lily52@yahoo.com",
+    "job": "Chief Mobility Assistant"
+  },
+  {
+    "name": "Mr. Glen Gibson",
+    "phone": "(258) 720-5586 x70526",
+    "email": "Sylvan_Weimann78@gmail.com",
+    "job": "Human Branding Engineer"
+  },
+  {
+    "name": "Shawn Carroll",
+    "phone": "507.760.1840",
+    "email": "Maud.Goyette@gmail.com",
+    "job": "Dynamic Infrastructure Supervisor"
+  },
+  {
+    "name": "Francisco Waelchi-Sipes",
+    "phone": "760-893-9380 x90241",
+    "email": "Helena_Metz@hotmail.com",
+    "job": "Central Data Analyst"
+  },
+  {
+    "name": "Jean Fisher",
+    "phone": "(387) 821-5858 x071",
+    "email": "Keyon.Feest95@yahoo.com",
+    "job": "Dynamic Research Consultant"
+  },
+  {
+    "name": "Eva Harvey",
+    "phone": "1-397-719-3241 x0804",
+    "email": "Brisa.Nader@yahoo.com",
+    "job": "Future Directives Coordinator"
+  },
+  {
+    "name": "Lyle Hyatt",
+    "phone": "1-462-515-8622",
+    "email": "Queen_Hoeger@gmail.com",
+    "job": "Principal Research Agent"
+  }
+]
